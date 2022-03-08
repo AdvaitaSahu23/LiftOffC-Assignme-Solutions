@@ -1,2 +1,2 @@
-# LiftOffC-Assignme-Solutions
+# LiftOffC-Assignment-Solutions
 Solutions for LiftOff C
